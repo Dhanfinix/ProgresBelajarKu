@@ -4,3 +4,4 @@ Commit kedua dari collaborator
 Latihan Squash and Merge
 --
 1. Buat commit tiga kali
+2. Pull request dan pilih squash and merge
