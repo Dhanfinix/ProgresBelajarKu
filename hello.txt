@@ -1,3 +1,3 @@
 Halo uji coba commit di development branch
 Yey hello.txt berhasil di merge ke branch main
-Commit dari collaborator
+Commit kedua dari collaborator
